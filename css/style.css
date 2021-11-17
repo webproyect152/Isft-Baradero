@@ -24,7 +24,10 @@ li a{
 
 a{
 	text-decoration:none;
-	color:white;
+	color:#ffffff;
+}
+a:hover{
+	color:#000000 ;
 }
 .icon {
 	width: 60px;
