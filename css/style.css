@@ -21,6 +21,11 @@ li a{
 	  font-size:20px;
 	  margin-right: 20px;
 }
+
+a{
+	text-decoration:none;
+	color:white;
+}
 .icon {
 	width: 60px;
 	height: 55px;
